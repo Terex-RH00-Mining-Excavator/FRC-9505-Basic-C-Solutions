@@ -1,5 +1,5 @@
 
-[1]
+//[1]
 #include <iostream> 	// Required for std::cout, std::cin
  
 int main(){
@@ -27,7 +27,7 @@ int main(){
 
 
 
-[3]
+//[3]
 #include <iostream>                         		// Required for std::cout, std::cin
  
 int max(int firstNumber, int secondNumber){	// Function declaration
